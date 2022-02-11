@@ -6,7 +6,7 @@
         2: function(t, e) {
             t.exports = {
                 github: {
-                    username: "ardaweb",
+                    username: "ArdaStore",
                     sortBy: "updated",
                     limit: 18,
                     exclude: {
@@ -15,16 +15,16 @@
                     }
                 },
                 social: {
-                    linkedin: "",
-                    twitter: "",
-                    facebook: "",
+                    linkedin: "https://trakteer.id/arda-store",
+                    twitter: "ArdaStore",
+                    facebook: "ArdaStore",
                     dribbble: "",
                     behance: "",
                     medium: "",
                     devto: "",
                     website: "https://wa.me/6282363250061",
                     phone: "+6282363250061",
-                    email: "ardastore9@gmail.com"
+                    email: "ardastore95@gmail.com"
                 },
                 skills: ["pemula sih cuman tau dikit","Const", "Case", "Node.js", "Scrape"],
                 experiences: [
@@ -36,7 +36,7 @@
                 },
                                               {
                   company: 'Sumatra Utara',
-                  position: 'cape juga ya cuma bisa kagum sama dia tapi ga bisa milikin.',
+                  position: 'Tetap tenang dan kuasai keadaan',
                   from: '10 Mei',
                   to: '2000'
                 }
