@@ -52,8 +52,9 @@ ___
 
 | BUILDPACK | LINK |
 |--------|--------|
+| **NODEJS** |[here](heroku/nodejs) |
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGE** |[here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **IMAGE** |[here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
 
 
 
